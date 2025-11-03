@@ -32,7 +32,7 @@ Para executar este monitor em sua máquina local, siga os passos abaixo.
 1.  **Clone o Repositório**:
     Abra seu terminal e clone este repositório para sua máquina local (substitua pela URL real do seu repositório):
     ```bash
-    git clone https://github.com/theycallmefreire/File-Integrity-Monitor-FIM-.git
+    git clone https://github.com/theycallmefreire/File-Integrity-Monitor-Simple.git
     ```
 
 2.  **Navegue até a Pasta**:
